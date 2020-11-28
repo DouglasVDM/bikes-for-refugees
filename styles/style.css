@@ -34,6 +34,11 @@ button {
 	/*  Challenge: can you make the navigation links orange on hover? */
 }
 
+.nav-link {
+	margin: 25px;
+	padding: 25px;
+}
+
 /* Buttons */
 /* INSERT BUTTON STYLES HERE */
 
