@@ -37,6 +37,21 @@ button {
 /* Buttons */
 /* INSERT BUTTON STYLES HERE */
 
+button.donate {
+	background-color: blue;
+}
+
+button.donate:hover {
+	background-color: greenyellow;
+}
+
+button.volunteer {
+	color: red;
+}
+
+button.volunteer:hover {
+	background-color: greenyellow;
+}
 
 /* Alert */
 .alert {
